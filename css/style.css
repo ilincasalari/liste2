@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(252, 244, 251);
+}
+ol{
+    list-style-type: "\2666";
+}
+li{
+    color: blueviolet;
+}
+span{
+    color: black;
+}
